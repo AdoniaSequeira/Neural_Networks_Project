@@ -3,12 +3,14 @@
 Type of project : Spam Classification 
 
 Team Members :
+
 Adonia Sequeira        : GitHub - https://github.com/AdoniaSequeira
 Ganesh Kumar Rajasekar : GitHub - https://github.com/GaneshKumarRajasekar
               
 Dataset Link : https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv
 
 Project Description : 
+
 Email and messaging applications have become vital instruments in our lives, but the problem of spam messages remains. These unsolicited messages can clog inboxes and impede communication. This project seeks to develop an advanced spam detection system based on the most recent natural language processing (NLP) techniques, with a focus on Large Language Models (LLMs).
 
 Instead of depending entirely on traditional methods, we'll look at how LLMs can improve spam detection. One way is to use tools such as the Universal Sentence Encoder (USE) to build meaningful text embeddings, which are then fed into a supervised learning model for categorization. Another approach uses LLMs to directly examine material and assess whether it is spam using prompts, demonstrating their capacity to evaluate information intuitively.
