@@ -5,6 +5,7 @@ Type of project : Spam Classification
 Team Members :
 
 Adonia Sequeira        : GitHub - https://github.com/AdoniaSequeira
+
 Ganesh Kumar Rajasekar : GitHub - https://github.com/GaneshKumarRajasekar
               
 Dataset Link : https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv
